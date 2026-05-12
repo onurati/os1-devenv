@@ -1,0 +1,6 @@
+out/
+_old
+__pycache__/
+.venv/
+.env
+
